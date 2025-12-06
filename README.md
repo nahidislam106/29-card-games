@@ -2,7 +2,7 @@
 
 A beautiful, modern implementation of the popular South Asian card game "29" using Python and PyGame. Features clean, minimalist card designs with smooth animations and intuitive gameplay.
 
-![Screenshot](https://screenshot.png)
+
 
 ---
 
@@ -65,74 +65,13 @@ python main.py
 | I           | Toggle instructions panel    |
 | ESC         | Quit game                    |
 
-🎨 Design Features
 
-Card Design:
 
-Rounded corners with subtle shadows for depth
 
-Clean gradient backgrounds (light gray to white)
 
-Red color for hearts and diamonds
 
-Black color for spades and clubs
 
-Large stylized suit symbols in the center
 
-Top-left and bottom-right corners showing card value and suit
 
-Subtle texture on card surface for realism
 
-UI Features:
 
-Modern color palette with teal and coral accents
-
-Smooth hover animations and selection effects
-
-Informative overlays with game rules
-
-Real-time card counter
-
-Clean, uncluttered interface
-
-📁 Project Structure
-29-card-game/
-├── main.py              # Main game entry point
-├── README.md            # This file
-├── requirements.txt     # Python dependencies
-├── screenshot.png       # Game screenshot
-└── assets/              # Optional assets folder
-    ├── fonts/           # Custom fonts
-    └── sounds/          # Sound effects
-
-🛠️ Technical Implementation
-
-Built With:
-
-Python 3.12+
-
-PyGame 2.6+
-
-Object-Oriented Design for modular code
-
-Key Components:
-
-Card Class - Represents individual playing cards
-
-Deck Class - Manages the 32-card deck
-
-CardRenderer Class - Handles card drawing and rendering
-
-CardGame29 Class - Main game controller
-
-Animation System - Smooth transitions and effects
-
-🔧 Development
-
-Running Tests
-python main.py
-
-📝 License
-
-This project is licensed under the MIT License - see the LICENSE
- file for details.
