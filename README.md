@@ -50,7 +50,7 @@ A beautiful, modern implementation of the popular South Asian card game "29" usi
 - PyGame 2.5.0 or higher  
 
 ### Setup
-```bash
+bash
 git clone https://github.com/yourusername/29-card-game.git
 cd 29-card-game
 pip install pygame
